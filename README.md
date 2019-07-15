@@ -1,2 +1,4 @@
-# OS_Lab
-ELC_OS_LAB :This is GDUT — ELC OS center, welcome everyone to learn and complete your OS knowledge.
+# 电子书资料
+我们将会将一部分电子书放在QQ群中，以便大家自取使用
+# CODE资料
+我们将在这个分支中存放
